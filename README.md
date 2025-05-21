@@ -43,7 +43,6 @@ The assignment explores the use of **Seaborn**, **Matplotlib**, and **Altair** f
 ## 📚 Course Info
 
 - **Course**: Exploratory Data Visualization Methods with Python  
-- **Instructor**: [UMass Dartmouth Faculty]  
 - **Semester**: Fall 2025
 
 ---
